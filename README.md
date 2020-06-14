@@ -4,3 +4,4 @@ for this proyect what i need?
 *pycharm
 *QtDesigner
 know PyQt5
+For the control, you need a Xbox one control connected by Bluetooth
